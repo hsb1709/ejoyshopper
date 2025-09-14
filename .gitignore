@@ -1,1 +1,20 @@
+# 忽略 Windows 系統文件
+*.lnk
+*.log
+*.dat
+*.ini
+AppData/
+Temp/
+ntuser.*
 
+# 忽略 Python 文件
+__pycache__/
+*.py[cod]
+
+# 忽略虛擬環境
+venv/
+env/
+
+# 忽略其他不必要的系統文件
+Thumbs.db
+.DS_Store
