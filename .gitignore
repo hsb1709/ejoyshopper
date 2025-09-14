@@ -15,6 +15,6 @@ __pycache__/
 venv/
 env/
 
-# 忽略其他不必要的系統文件
+# 忽略其他暫存或系統文件
 Thumbs.db
 .DS_Store
